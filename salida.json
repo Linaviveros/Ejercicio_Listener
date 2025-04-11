@@ -1,0 +1,37 @@
+[
+  {
+    "Mes": "Enero",
+    "Cantidad": "1200",
+    "Producto": "Manzanas"
+  },
+  {
+    "Mes": "Febrero",
+    "Cantidad": "950",
+    "Producto": "Peras"
+  },
+  {
+    "Mes": "Marzo",
+    "Cantidad": "1300",
+    "Producto": "Manzanas"
+  },
+  {
+    "Mes": "Marzo",
+    "Cantidad": "␀",
+    "Producto": "Plátanos"
+  },
+  {
+    "Mes": "Junio",
+    "Cantidad": "2000",
+    "Producto": "Sandía"
+  },
+  {
+    "Mes": "Julio",
+    "Cantidad": "1500",
+    "Producto": "Melón"
+  },
+  {
+    "Mes": "Agosto",
+    "Cantidad": "",
+    "Producto": "Uvas"
+  }
+]

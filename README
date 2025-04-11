@@ -1,0 +1,16 @@
+#  Procesamiento de Archivos CSV con ANTLR4 y Python
+
+Este ejercicio utiliza un *listener* en Python generado con **ANTLR4** para procesar archivos `.csv` y realizar diversas operaciones como limpieza de datos, estadísticas por columnas, detección de duplicados y exportación a JSON.
+
+---
+
+##  Cómo ejecutar el ejercicio
+
+1. Asegúrese de que los archivos generados por ANTLR (`CSVLexer.py`, `CSVParser.py`, etc.) estén en el mismo directorio que `main.py`.
+
+2. El archivo de entrada debe llamarse **`data.csv`** y estar en la misma carpeta del proyecto.
+
+3. Ejecute el siguiente comando para correr el programa principal:
+
+```bash
+python main.py
